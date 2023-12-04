@@ -1,4 +1,4 @@
 # My ToDO List
 ## My shopping List
-+ [ ] Eggs
-+ [ ] Milk
++ [X] Eggs
++ [X] Milk
