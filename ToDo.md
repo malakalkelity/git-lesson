@@ -4,3 +4,4 @@
 + [x] Eggs
 + [x] Milk
 + [x] Chicken
++ [x] Icecream
