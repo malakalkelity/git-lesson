@@ -1,6 +1,6 @@
 # Notes from the Gits, GitHub and Girk
 
-This website cover [MyPhD] 
+This website cover MyPhD 
 
 ## Topics
 
